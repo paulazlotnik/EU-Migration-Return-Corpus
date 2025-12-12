@@ -1,6 +1,8 @@
 # EU Migration and Return Policy Corpus (1985-2020)
 
-A comprehensive corpus of European Union policy documents related to migration and return policy, spanning from 1985 to 2020.
+This archive contains a comprehensive corpus of European Union policy documents related to migration and return policy, spanning from 1985 to 2020.
+The corpus was the basis of the analysis reported in Hoffmeyer-Zlotnik, Paula, and Philipp Stutz. "Changing Norms in EU Return Policy? A longitudinal analysis of Commission documents on return". Forthcoming in Journal of Ethnic and Migration Studies
+
 
 ## Contents
 
