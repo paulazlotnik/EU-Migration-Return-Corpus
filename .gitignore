@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# R
+.Rhistory
+.RData
+*.Rproj.user/
+
+# Temporary files
+*.tmp
+*.bak
+~*
